@@ -1,1 +1,1 @@
-For Practice JPA Specifications
+For Practice JPA Specification
